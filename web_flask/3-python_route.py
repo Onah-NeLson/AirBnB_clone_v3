@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Starts a Flash Web Application Python is Cool"""
+""" This script Starts a Flash Web Application Python is Cool"""
 from flask import Flask
 app = Flask(__name__)
 
